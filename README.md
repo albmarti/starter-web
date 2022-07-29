@@ -17,6 +17,8 @@ It will be created to use any use case.
 
 ## How to Contribute
 
+Please fork this repository and then issue PR for review
+
 ## CopyRight
 
 2020. GitTraining
