@@ -16,3 +16,7 @@ It will be created to use any use case.
 ## Sample website with plenty of files for demos
 
 ## How to Contribute
+
+## CopyRight
+
+2020. GitTraining
