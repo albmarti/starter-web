@@ -4,6 +4,7 @@
 # TEAM
 
     Alberto Martinez - SRE
+    Alejandro Gamez  - SRE de pacotilla
 
 # THANKS
 
