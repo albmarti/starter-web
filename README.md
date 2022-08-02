@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-This is a introduction course for GIT commands
+This is a introduction course for GIT commands. Done grom myfeature branch.
 
 ## Purpose
 
