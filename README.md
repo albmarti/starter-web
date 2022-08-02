@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
+This is a introduction course for GIT commands
+
 ## Purpose
 
 The purpose of this project is to learn the different flows git has in general
